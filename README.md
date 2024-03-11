@@ -1,10 +1,15 @@
- HW1
+HW1
 
 # <HW1- Semantic HTML>
 
 ## Description
 
-This HW contains the edits to an html document- converting it from a basic structure to semantic html. 
+This HW contains the edits to an html document- converting it from a basic structure to semantic html. It includes an html document with the outline and text information of the webpage and the CSS contains the formatting properties for the webpage. The information covered within the html includes some useful tips for content marketing. 
+
+<img width="1433" alt="Screenshot 2024-03-11 at 3 06 51 PM" src="https://github.com/kitasauce/HW1/assets/156166877/5677e199-6fcb-4a67-9e9f-40280bacefeb">
+<img width="1432" alt="Screenshot 2024-03-11 at 3 07 08 PM" src="https://github.com/kitasauce/HW1/assets/156166877/cbd72243-155b-4ca9-be2a-68b5b6d19600">
+
+Deployed app: https://kitasauce.github.io/HW1/ 
 
 ## Installation
 
